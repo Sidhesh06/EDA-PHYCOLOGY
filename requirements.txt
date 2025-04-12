@@ -1,0 +1,19 @@
+pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+mlxtend
+
+pip freeze > requirements.txt
+
+numpy==1.24.3
+pandas==2.1.0
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.3.0
+mlxtend==0.22.0
+
+pip install -r requirements.txt
